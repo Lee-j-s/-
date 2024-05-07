@@ -1,0 +1,248 @@
+[
+  {
+    "no": 6,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801771300083.jpg",
+    "name": "샐)놀라운치킨&단호박무스",
+    "price": 2900
+  },
+  {
+    "no": 7,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801771300069.jpg",
+    "name": "샐)놀라운치킨&에그무스",
+    "price": 2900
+  },
+  {
+    "no": 10,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801068921366.jpg",
+    "name": "샐)MBTI밸런스샐러드",
+    "price": 4900
+  },
+  {
+    "no": 11,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801068921359.jpg",
+    "name": "샐)MBTI누룽지치킨샐러드",
+    "price": 4900
+  },
+  {
+    "no": 15,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801068921380.jpg",
+    "name": "샐)MBTI치킨텐더샐러드",
+    "price": 4900
+  },
+  {
+    "no": 16,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801068921373.jpg",
+    "name": "샐)MBTI당근라페샐러드",
+    "price": 4900
+  },
+  {
+    "no": 24,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801068921007.png",
+    "name": "샐)갓성비고구마샐러드",
+    "price": 2900
+  },
+  {
+    "no": 25,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801068920994.png",
+    "name": "샐)갓성비통곡물샐러드",
+    "price": 2900
+  },
+  {
+    "no": 70,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801771300120.jpg",
+    "name": "샐)압도적올리브샐러드",
+    "price": 5900
+  },
+  {
+    "no": 71,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801771300106.jpg",
+    "name": "샐)압도적팔라펠샐러드",
+    "price": 5900
+  },
+  {
+    "no": 82,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801068922882.jpg",
+    "name": "샐)오렌지앤망고샐러드",
+    "price": 3800
+  },
+  {
+    "no": 83,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801068922875.jpg",
+    "name": "샐)베리앤베리샐러드",
+    "price": 3800
+  },
+  {
+    "no": 112,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801068922455.jpg",
+    "name": "샐)에그마요콤보샐러드",
+    "price": 3900
+  },
+  {
+    "no": 113,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801068922448.jpg",
+    "name": "샐)꽃맛살콤보샐러드",
+    "price": 3900
+  },
+  {
+    "no": 114,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8809954750533.jpg",
+    "name": "샐)편키트랩치킨텐더샐러",
+    "price": 4300
+  },
+  {
+    "no": 115,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8809954750526.jpg",
+    "name": "샐)편키트랩단호박샐러드",
+    "price": 4300
+  },
+  {
+    "no": 116,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8809954750519.jpg",
+    "name": "샐)편키트랩닭가슴샐러드",
+    "price": 4300
+  },
+  {
+    "no": 134,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801771029762.png",
+    "name": "샐)놀라운계란샐러드",
+    "price": 2500
+  },
+  {
+    "no": 138,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801771029809.png",
+    "name": "샐)놀라운치킨텐더샐러드",
+    "price": 2500
+  },
+  {
+    "no": 139,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801771029786.png",
+    "name": "샐)놀라운양배추샐러드",
+    "price": 2300
+  },
+  {
+    "no": 143,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801068919165.jpg",
+    "name": "샐)두부계란샐러드",
+    "price": 3800
+  },
+  {
+    "no": 148,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801068919189.jpg",
+    "name": "샐)고구마허브치킨샐러드",
+    "price": 3800
+  },
+  {
+    "no": 149,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801068919172.jpg",
+    "name": "샐)리코타뮤즐리샐러드",
+    "price": 3800
+  },
+  {
+    "no": 163,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8809665560780.jpg",
+    "name": "샐)탄두리치킨샐러드",
+    "price": 6600
+  },
+  {
+    "no": 190,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8809954750052.jpg",
+    "name": "샐)닭가슴살단호박샐러드",
+    "price": 4900
+  },
+  {
+    "no": 191,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8809954750045.jpg",
+    "name": "샐)살사푸실리고구마샐러",
+    "price": 4900
+  },
+  {
+    "no": 192,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801068916720.jpg",
+    "name": "샐)뉴치킨찹찹샐러드",
+    "price": 3800
+  },
+  {
+    "no": 193,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801068916751.jpg",
+    "name": "샐)뉴흑임자치킨샐러드",
+    "price": 3800
+  },
+  {
+    "no": 194,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801068916737.jpg",
+    "name": "샐)뉴에그가먼저닭샐러드",
+    "price": 3800
+  },
+  {
+    "no": 207,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8809665560346.jpg",
+    "name": "샐)콥샐러드",
+    "price": 6600
+  },
+  {
+  "no": 210,
+  "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8809142024057.jpg",
+  "name": "샐)하루한끼샐러드시저",
+  "price": 1800
+  },
+  {
+    "no": 211,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8809142024040.jpg",
+    "name": "샐)하루한끼샐러드오리엔",
+    "price": 1800
+  },
+  {
+    "no": 212,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8809148599016.jpg",
+    "name": "샐)허니리코타치즈샐러드",
+    "price": 4800
+  },
+  {
+    "no": 213,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8809148599009.jpg",
+    "name": "샐)오리지널닭가슴살샐러",
+    "price": 4800
+  },
+  {
+    "no": 215,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8809665560681.jpg",
+    "name": "샐)카프레제샐러드",
+    "price": 6600
+  },
+  {
+    "no": 224,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8809142022800.jpg",
+    "name": "샐)닭가슴살오리엔탈샐러",
+    "price": 4800
+  },
+  {
+    "no": 225,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8809802268067.jpg",
+    "name": "샌)햄감자샐러드",
+    "price": 3200
+  },
+  {
+    "no": 243,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8809665560476.jpg",
+    "name": "샐)시저샐러드",
+    "price": 6600
+  },
+  {
+    "no": 250,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8809142022817.jpg",
+    "name": "샐)리코타치즈샐러드",
+    "price": 4800
+  },
+  {
+    "no": 266,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8809148593823.jpg",
+    "name": "샐)닭가슴살샐러드170",
+    "price": 3500
+  },
+  {
+    "no": 267,
+    "photo": "https://tqklhszfkvzk6518638.cdn.ntruss.com/product/8801068922899.jpg",
+    "name": "샐)애플앤살구샐러드",
+    "price": 3800
+  }
+]

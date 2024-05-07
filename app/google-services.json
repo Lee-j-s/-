@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1067455654832",
+    "firebase_url": "https://csi-kdu-default-rtdb.firebaseio.com",
+    "project_id": "csi-kdu",
+    "storage_bucket": "csi-kdu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067455654832:android:6ac904d591b1931e654475",
+        "android_client_info": {
+          "package_name": "com.example.csi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1nqthVZ7mlwZM4RoAa-fv6BZsNIQn98A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
