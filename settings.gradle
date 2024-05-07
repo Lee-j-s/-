@@ -1,5 +1,6 @@
 pluginManagement {
     repositories {
+<<<<<<< HEAD
         google()
         mavenCentral()
         gradlePluginPortal()
@@ -7,12 +8,29 @@ pluginManagement {
     }
     }
 
+=======
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+>>>>>>> payment/develop
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
         google()
         mavenCentral()
+<<<<<<< HEAD
     }
 }
 rootProject.name = "CSI"
 include ':app'
+=======
+
+        maven { url 'https://jitpack.io' }
+    }
+}
+rootProject.name = "TossPaymentSdk"
+include ':app'
+include ':paymentsdk'
+>>>>>>> payment/develop

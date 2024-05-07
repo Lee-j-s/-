@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -13,3 +14,13 @@
 .externalNativeBuild
 .cxx
 local.properties
+=======
+.gradle
+.idea
+local.properties
+app/build
+paymentsdk/build
+build
+app/.DS_Store
+.DS_Store
+>>>>>>> payment/develop

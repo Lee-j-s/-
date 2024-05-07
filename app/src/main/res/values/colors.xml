@@ -2,8 +2,17 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+<<<<<<< HEAD
     <color name="nocolor">#00FF0000</color>
     <color name="rightgreen">#adff2f</color>
     <color name="rblack">#dcdcdc</color>
     <color name="red">#ff0000</color>
+=======
+
+    <color name="main_blue">#ff3182f6</color>
+    <color name="main_blue_dark">#ff1b64da</color>
+
+    <color name="gray">#ffb0b8c1</color>
+    <color name="light_black">#ff191f28</color>
+>>>>>>> payment/develop
 </resources>
